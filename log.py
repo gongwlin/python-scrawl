@@ -18,7 +18,7 @@ def getOnePage(i):
     'X-Requested-With': 'XMLHttpRequest'
     }
     data = {
-        'token': '1923478722',
+        'token': '********',
         'lang': 'zh_CN',
         'f': 'json',
         'ajax': 1,
